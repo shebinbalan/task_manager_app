@@ -42,7 +42,7 @@ This is a simple Task Management System built with **Core PHP**, **MySQL**, **AJ
 Download the ZIP and extract it, or clone from GitHub (if applicable):
 
 ```bash
-git clone https://github.com/your-username/task-manager-php.git
+git clone https://github.com/shebinbalan/task_manager_app
 ```
 
 ### 2. Set Up the Database
